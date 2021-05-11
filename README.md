@@ -1,3 +1,3 @@
-# adadas
+# Guacomole recipe
 
 README
